@@ -1,0 +1,262 @@
+D:\AssestManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\appsettings.Development.json
+D:\AssestManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\appsettings.json
+D:\AssestManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\AssestManagement.exe
+D:\AssestManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\AssestManagement.deps.json
+D:\AssestManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\AssestManagement.runtimeconfig.json
+D:\AssestManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\AssestManagement.dll
+D:\AssestManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\AssestManagement.pdb
+D:\AssestManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\AssestManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\AssestManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\AssestManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\AssestManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\AssestManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\AssestManagement\AssestManagement\AssestManagement\obj\Debug\net6.0\AssestManagement.csproj.AssemblyReference.cache
+D:\AssestManagement\AssestManagement\AssestManagement\obj\Debug\net6.0\AssestManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\AssestManagement\AssestManagement\AssestManagement\obj\Debug\net6.0\AssestManagement.AssemblyInfoInputs.cache
+D:\AssestManagement\AssestManagement\AssestManagement\obj\Debug\net6.0\AssestManagement.AssemblyInfo.cs
+D:\AssestManagement\AssestManagement\AssestManagement\obj\Debug\net6.0\AssestManagement.csproj.CoreCompileInputs.cache
+D:\AssestManagement\AssestManagement\AssestManagement\obj\Debug\net6.0\AssestManagement.MvcApplicationPartsAssemblyInfo.cs
+D:\AssestManagement\AssestManagement\AssestManagement\obj\Debug\net6.0\AssestManagement.MvcApplicationPartsAssemblyInfo.cache
+D:\AssestManagement\AssestManagement\AssestManagement\obj\Debug\net6.0\staticwebassets\msbuild.AssestManagement.Microsoft.AspNetCore.StaticWebAssets.props
+D:\AssestManagement\AssestManagement\AssestManagement\obj\Debug\net6.0\staticwebassets\msbuild.build.AssestManagement.props
+D:\AssestManagement\AssestManagement\AssestManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AssestManagement.props
+D:\AssestManagement\AssestManagement\AssestManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AssestManagement.props
+D:\AssestManagement\AssestManagement\AssestManagement\obj\Debug\net6.0\staticwebassets.pack.json
+D:\AssestManagement\AssestManagement\AssestManagement\obj\Debug\net6.0\staticwebassets.build.json
+D:\AssestManagement\AssestManagement\AssestManagement\obj\Debug\net6.0\staticwebassets.development.json
+D:\AssestManagement\AssestManagement\AssestManagement\obj\Debug\net6.0\scopedcss\bundle\AssestManagement.styles.css
+D:\AssestManagement\AssestManagement\AssestManagement\obj\Debug\net6.0\AssestManagement.csproj.CopyComplete
+D:\AssestManagement\AssestManagement\AssestManagement\obj\Debug\net6.0\AssestManagement.dll
+D:\AssestManagement\AssestManagement\AssestManagement\obj\Debug\net6.0\refint\AssestManagement.dll
+D:\AssestManagement\AssestManagement\AssestManagement\obj\Debug\net6.0\AssestManagement.pdb
+D:\AssestManagement\AssestManagement\AssestManagement\obj\Debug\net6.0\AssestManagement.genruntimeconfig.cache
+D:\AssestManagement\AssestManagement\AssestManagement\obj\Debug\net6.0\ref\AssestManagement.dll
+D:\AssestManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\Humanizer.dll
+D:\AssestManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\AssestManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\AssestManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\AssestManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\AssestManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\AssestManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\AssestManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\AssestManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\AssestManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\AssestManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\AssestManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\AssestManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\AssestManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\AssestManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\AssestManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\AssestManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\AssestManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\AssestManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\AssestManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\AssestManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\AssestManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AssestManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AssestManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AssestManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AssestManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\AssestManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\AssestManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\AssestManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\AssestManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\AssestManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\AssestManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\Dapper.dll
+D:\AssestManagement\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\appsettings.Development.json
+D:\AssestManagement\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\appsettings.json
+D:\AssestManagement\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\AssestManagement.exe
+D:\AssestManagement\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\AssestManagement.deps.json
+D:\AssestManagement\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\AssestManagement.runtimeconfig.json
+D:\AssestManagement\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\AssestManagement.dll
+D:\AssestManagement\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\AssestManagement.pdb
+D:\AssestManagement\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\Dapper.dll
+D:\AssestManagement\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\Humanizer.dll
+D:\AssestManagement\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\AssestManagement\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\AssestManagement\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\AssestManagement\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\AssestManagement\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\AssestManagement\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\AssestManagement\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\AssestManagement\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\AssestManagement\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\AssestManagement\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\AssestManagement\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\AssestManagement\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\AssestManagement\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\AssestManagement\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\AssestManagement\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\AssestManagement\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\AssestManagement\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\AssestManagement\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\AssestManagement\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\AssestManagement\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\AssestManagement\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\AssestManagement\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\AssestManagement\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\AssestManagement\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\AssestManagement\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\AssestManagement\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\AssestManagement\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\AssestManagement\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AssestManagement\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AssestManagement\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AssestManagement\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AssestManagement\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\AssestManagement\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\AssestManagement\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\AssestManagement\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\AssestManagement\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\AssestManagement\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\AssestManagement\AssetManagement\AssestManagement\AssestManagement\obj\Debug\net6.0\AssestManagement.csproj.AssemblyReference.cache
+D:\AssestManagement\AssetManagement\AssestManagement\AssestManagement\obj\Debug\net6.0\AssestManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\AssestManagement\AssetManagement\AssestManagement\AssestManagement\obj\Debug\net6.0\AssestManagement.AssemblyInfoInputs.cache
+D:\AssestManagement\AssetManagement\AssestManagement\AssestManagement\obj\Debug\net6.0\AssestManagement.AssemblyInfo.cs
+D:\AssestManagement\AssetManagement\AssestManagement\AssestManagement\obj\Debug\net6.0\AssestManagement.csproj.CoreCompileInputs.cache
+D:\AssestManagement\AssetManagement\AssestManagement\AssestManagement\obj\Debug\net6.0\AssestManagement.MvcApplicationPartsAssemblyInfo.cs
+D:\AssestManagement\AssetManagement\AssestManagement\AssestManagement\obj\Debug\net6.0\AssestManagement.MvcApplicationPartsAssemblyInfo.cache
+D:\AssestManagement\AssetManagement\AssestManagement\AssestManagement\obj\Debug\net6.0\staticwebassets\msbuild.AssestManagement.Microsoft.AspNetCore.StaticWebAssets.props
+D:\AssestManagement\AssetManagement\AssestManagement\AssestManagement\obj\Debug\net6.0\staticwebassets\msbuild.build.AssestManagement.props
+D:\AssestManagement\AssetManagement\AssestManagement\AssestManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AssestManagement.props
+D:\AssestManagement\AssetManagement\AssestManagement\AssestManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AssestManagement.props
+D:\AssestManagement\AssetManagement\AssestManagement\AssestManagement\obj\Debug\net6.0\staticwebassets.pack.json
+D:\AssestManagement\AssetManagement\AssestManagement\AssestManagement\obj\Debug\net6.0\staticwebassets.build.json
+D:\AssestManagement\AssetManagement\AssestManagement\AssestManagement\obj\Debug\net6.0\staticwebassets.development.json
+D:\AssestManagement\AssetManagement\AssestManagement\AssestManagement\obj\Debug\net6.0\scopedcss\bundle\AssestManagement.styles.css
+D:\AssestManagement\AssetManagement\AssestManagement\AssestManagement\obj\Debug\net6.0\AssestManagement.csproj.CopyComplete
+D:\AssestManagement\AssetManagement\AssestManagement\AssestManagement\obj\Debug\net6.0\AssestManagement.dll
+D:\AssestManagement\AssetManagement\AssestManagement\AssestManagement\obj\Debug\net6.0\refint\AssestManagement.dll
+D:\AssestManagement\AssetManagement\AssestManagement\AssestManagement\obj\Debug\net6.0\AssestManagement.pdb
+D:\AssestManagement\AssetManagement\AssestManagement\AssestManagement\obj\Debug\net6.0\AssestManagement.genruntimeconfig.cache
+D:\AssestManagement\AssetManagement\AssestManagement\AssestManagement\obj\Debug\net6.0\ref\AssestManagement.dll
+D:\a\AssetManagement\AssestManagement\AssestManagement\obj\Debug\net6.0\AssestManagement.csproj.AssemblyReference.cache
+D:\a\AssetManagement\AssestManagement\AssestManagement\obj\Debug\net6.0\AssestManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\a\AssetManagement\AssestManagement\AssestManagement\obj\Debug\net6.0\AssestManagement.AssemblyInfoInputs.cache
+D:\a\AssetManagement\AssestManagement\AssestManagement\obj\Debug\net6.0\AssestManagement.AssemblyInfo.cs
+D:\a\AssetManagement\AssestManagement\AssestManagement\obj\Debug\net6.0\AssestManagement.csproj.CoreCompileInputs.cache
+D:\a\AssetManagement\AssestManagement\AssestManagement\obj\Debug\net6.0\AssestManagement.MvcApplicationPartsAssemblyInfo.cs
+D:\a\AssetManagement\AssestManagement\AssestManagement\obj\Debug\net6.0\AssestManagement.MvcApplicationPartsAssemblyInfo.cache
+D:\a\AssetManagement\AssestManagement\AssestManagement\obj\Debug\net6.0\AssestManagement.dll
+D:\a\AssetManagement\AssestManagement\AssestManagement\obj\Debug\net6.0\refint\AssestManagement.dll
+D:\a\AssetManagement\AssestManagement\AssestManagement\obj\Debug\net6.0\AssestManagement.pdb
+D:\a\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\appsettings.Development.json
+D:\a\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\appsettings.json
+D:\a\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\AssestManagement.exe
+D:\a\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\AssestManagement.deps.json
+D:\a\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\AssestManagement.runtimeconfig.json
+D:\a\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\AssestManagement.dll
+D:\a\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\AssestManagement.pdb
+D:\a\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\Dapper.dll
+D:\a\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\Humanizer.dll
+D:\a\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\a\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\a\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\a\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\a\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\a\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\a\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\a\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\a\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\a\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\a\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\a\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\a\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\a\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\a\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\a\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\a\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\a\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\a\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\a\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\a\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\a\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\a\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\a\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\a\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\a\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\a\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\a\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\a\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\a\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\a\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\a\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\a\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\a\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\a\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\a\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\a\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\a\AssetManagement\AssestManagement\AssestManagement\obj\Debug\net6.0\staticwebassets\msbuild.AssestManagement.Microsoft.AspNetCore.StaticWebAssets.props
+D:\a\AssetManagement\AssestManagement\AssestManagement\obj\Debug\net6.0\staticwebassets\msbuild.build.AssestManagement.props
+D:\a\AssetManagement\AssestManagement\AssestManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AssestManagement.props
+D:\a\AssetManagement\AssestManagement\AssestManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AssestManagement.props
+D:\a\AssetManagement\AssestManagement\AssestManagement\obj\Debug\net6.0\staticwebassets.pack.json
+D:\a\AssetManagement\AssestManagement\AssestManagement\obj\Debug\net6.0\staticwebassets.build.json
+D:\a\AssetManagement\AssestManagement\AssestManagement\obj\Debug\net6.0\staticwebassets.development.json
+D:\a\AssetManagement\AssestManagement\AssestManagement\obj\Debug\net6.0\scopedcss\bundle\AssestManagement.styles.css
+D:\a\AssetManagement\AssestManagement\AssestManagement\obj\Debug\net6.0\AssestManagement.csproj.CopyComplete
+D:\a\AssetManagement\AssestManagement\AssestManagement\obj\Debug\net6.0\AssestManagement.genruntimeconfig.cache
+D:\a\AssetManagement\AssestManagement\AssestManagement\obj\Debug\net6.0\ref\AssestManagement.dll
+E:\Test Asset Management\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\appsettings.Development.json
+E:\Test Asset Management\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\appsettings.json
+E:\Test Asset Management\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\AssestManagement.exe
+E:\Test Asset Management\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\AssestManagement.deps.json
+E:\Test Asset Management\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\AssestManagement.runtimeconfig.json
+E:\Test Asset Management\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\AssestManagement.dll
+E:\Test Asset Management\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\AssestManagement.pdb
+E:\Test Asset Management\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\Dapper.dll
+E:\Test Asset Management\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\Humanizer.dll
+E:\Test Asset Management\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Test Asset Management\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Test Asset Management\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Test Asset Management\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Test Asset Management\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Test Asset Management\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Test Asset Management\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Test Asset Management\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Test Asset Management\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Test Asset Management\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Test Asset Management\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Test Asset Management\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Test Asset Management\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Test Asset Management\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Test Asset Management\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Test Asset Management\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Test Asset Management\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Test Asset Management\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Test Asset Management\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Test Asset Management\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Test Asset Management\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Test Asset Management\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Test Asset Management\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Test Asset Management\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Test Asset Management\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Test Asset Management\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Test Asset Management\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Test Asset Management\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Test Asset Management\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Test Asset Management\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Test Asset Management\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Test Asset Management\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Test Asset Management\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Test Asset Management\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Test Asset Management\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Test Asset Management\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Test Asset Management\AssetManagement\AssestManagement\AssestManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Test Asset Management\AssetManagement\AssestManagement\AssestManagement\obj\Debug\net6.0\AssestManagement.csproj.AssemblyReference.cache
+E:\Test Asset Management\AssetManagement\AssestManagement\AssestManagement\obj\Debug\net6.0\AssestManagement.GeneratedMSBuildEditorConfig.editorconfig
+E:\Test Asset Management\AssetManagement\AssestManagement\AssestManagement\obj\Debug\net6.0\AssestManagement.AssemblyInfoInputs.cache
+E:\Test Asset Management\AssetManagement\AssestManagement\AssestManagement\obj\Debug\net6.0\AssestManagement.AssemblyInfo.cs
+E:\Test Asset Management\AssetManagement\AssestManagement\AssestManagement\obj\Debug\net6.0\AssestManagement.csproj.CoreCompileInputs.cache
+E:\Test Asset Management\AssetManagement\AssestManagement\AssestManagement\obj\Debug\net6.0\AssestManagement.MvcApplicationPartsAssemblyInfo.cs
+E:\Test Asset Management\AssetManagement\AssestManagement\AssestManagement\obj\Debug\net6.0\AssestManagement.MvcApplicationPartsAssemblyInfo.cache
+E:\Test Asset Management\AssetManagement\AssestManagement\AssestManagement\obj\Debug\net6.0\staticwebassets.build.json
+E:\Test Asset Management\AssetManagement\AssestManagement\AssestManagement\obj\Debug\net6.0\staticwebassets.development.json
+E:\Test Asset Management\AssetManagement\AssestManagement\AssestManagement\obj\Debug\net6.0\scopedcss\bundle\AssestManagement.styles.css
+E:\Test Asset Management\AssetManagement\AssestManagement\AssestManagement\obj\Debug\net6.0\AssestManagement.csproj.CopyComplete
+E:\Test Asset Management\AssetManagement\AssestManagement\AssestManagement\obj\Debug\net6.0\AssestManagement.dll
+E:\Test Asset Management\AssetManagement\AssestManagement\AssestManagement\obj\Debug\net6.0\refint\AssestManagement.dll
+E:\Test Asset Management\AssetManagement\AssestManagement\AssestManagement\obj\Debug\net6.0\AssestManagement.pdb
+E:\Test Asset Management\AssetManagement\AssestManagement\AssestManagement\obj\Debug\net6.0\AssestManagement.genruntimeconfig.cache
+E:\Test Asset Management\AssetManagement\AssestManagement\AssestManagement\obj\Debug\net6.0\ref\AssestManagement.dll
